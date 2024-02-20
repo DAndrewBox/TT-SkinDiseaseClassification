@@ -1,0 +1,7 @@
+a2wsgi==1.7.0
+fastapi==0.95.1
+numpy==1.24.2
+Pillow==9.5.0
+tensorflow
+uvicorn==0.18.2
+python-dotenv
